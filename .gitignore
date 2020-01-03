@@ -3,3 +3,6 @@
 ################################################################################
 
 /ZalgoGenerator/obj/Release
+/ZalgoGenerator/obj/Debug
+/.vs
+/ZalgoGenerator/bin/Debug
